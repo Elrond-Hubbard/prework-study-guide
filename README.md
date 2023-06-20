@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To record new notes in the study guide, add <li> elements to the body under an appropriate topic header (HTML notes should go under <h2>HTML). If you would like the page to suggest a topic for study, inspect the console. You can reload the page to see new suggestions.
+To record new notes in the study guide, add list elements to the body under an appropriate topic header (HTML notes should go under the HTML topic header). If you would like the page to suggest a topic for study, inspect the console. You can reload the page to see new suggestions.
 
 ## Credits
 
